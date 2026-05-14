@@ -1,5 +1,5 @@
-<img width="404" height="348" alt="image" src="https://github.com/user-attachments/assets/e0bdf24c-e31b-4b16-a766-2752a3ac7628" />Star Topology with 10 End Devices
-Network Topology Report
+Star Topology with 10 End Devices
+NetworkTopology Report
 1. Introduction
 A Star Topology is a network configuration in which all devices are connected to a central device such as a switch or hub. All communication passes through this central device, making it the core of the network.
 Star topology is widely used in modern networking because of its easy management, scalability, and high reliability. It is commonly used in LANs (Local Area Networks), offices, schools, and enterprise environments.
